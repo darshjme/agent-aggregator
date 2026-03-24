@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: agent-aggregator
+Version: 1.0.0
+Summary: Multi-source data aggregation utilities for AI agents
+Author-email: Darshankumar Joshi <darshjme@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/darshjme-codes/agent-aggregator
+Project-URL: Repository, https://github.com/darshjme-codes/agent-aggregator
+Keywords: agents,aggregation,merge,dedupe,llm,data
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
